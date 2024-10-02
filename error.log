@@ -1,0 +1,97 @@
+2024-04-22 02:56:55,558:INFO: * Detected change in '/Users/arunmac/Documents/Web-Attack-Detuction-using-Machine-Learning/app.py', reloading
+2024-04-22 02:56:55,634:INFO: * Restarting with stat
+2024-04-22 02:56:56,342:WARNING: * Debugger is active!
+2024-04-22 02:56:56,351:INFO: * Debugger PIN: 274-604-476
+2024-04-22 02:57:41,236:INFO: * Detected change in '/Users/arunmac/Documents/Web-Attack-Detuction-using-Machine-Learning/setup.py', reloading
+2024-04-22 02:57:41,304:INFO: * Restarting with stat
+2024-04-22 02:57:42,028:WARNING: * Debugger is active!
+2024-04-22 02:57:42,037:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:40:54,825:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.105:8080
+2024-04-22 03:40:54,826:INFO:[33mPress CTRL+C to quit[0m
+2024-04-22 03:40:54,826:INFO: * Restarting with stat
+2024-04-22 03:40:55,412:WARNING: * Debugger is active!
+2024-04-22 03:40:55,422:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:41:03,664:INFO:127.0.0.1 - - [22/Apr/2024 03:41:03] "POST /findLocation HTTP/1.1" 200 -
+2024-04-22 03:41:20,856:INFO: * Detected change in '/Users/arunmac/Documents/Cellur Mobile Location Prediction/app.py', reloading
+2024-04-22 03:41:20,922:INFO: * Restarting with stat
+2024-04-22 03:41:21,686:WARNING: * Debugger is active!
+2024-04-22 03:41:21,694:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:41:24,956:INFO:127.0.0.1 - - [22/Apr/2024 03:41:24] "POST /findLocation HTTP/1.1" 200 -
+2024-04-22 03:41:45,548:INFO:127.0.0.1 - - [22/Apr/2024 03:41:45] "[35m[1mPOST /findLocation HTTP/1.1[0m" 500 -
+2024-04-22 03:41:45,590:INFO:127.0.0.1 - - [22/Apr/2024 03:41:45] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-22 03:41:45,590:INFO:127.0.0.1 - - [22/Apr/2024 03:41:45] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-22 03:41:45,612:INFO:127.0.0.1 - - [22/Apr/2024 03:41:45] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-22 03:41:45,701:INFO:127.0.0.1 - - [22/Apr/2024 03:41:45] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-22 03:43:02,007:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.105:8080
+2024-04-22 03:43:02,007:INFO:[33mPress CTRL+C to quit[0m
+2024-04-22 03:43:02,008:INFO: * Restarting with stat
+2024-04-22 03:43:02,608:WARNING: * Debugger is active!
+2024-04-22 03:43:02,618:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:43:06,248:INFO:127.0.0.1 - - [22/Apr/2024 03:43:06] "[35m[1mPOST /findLocation HTTP/1.1[0m" 500 -
+2024-04-22 03:43:06,295:INFO:127.0.0.1 - - [22/Apr/2024 03:43:06] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-22 03:43:06,299:INFO:127.0.0.1 - - [22/Apr/2024 03:43:06] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-22 03:43:06,336:INFO:127.0.0.1 - - [22/Apr/2024 03:43:06] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-22 03:44:01,433:INFO: * Detected change in '/Users/arunmac/Documents/Cellur Mobile Location Prediction/app.py', reloading
+2024-04-22 03:44:01,497:INFO: * Restarting with stat
+2024-04-22 03:44:02,225:WARNING: * Debugger is active!
+2024-04-22 03:44:02,232:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:44:14,193:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.105:8080
+2024-04-22 03:44:14,194:INFO:[33mPress CTRL+C to quit[0m
+2024-04-22 03:44:14,195:INFO: * Restarting with stat
+2024-04-22 03:44:15,784:WARNING: * Debugger is active!
+2024-04-22 03:44:15,794:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:46:42,642:INFO: * Detected change in '/Users/arunmac/Documents/Cellur Mobile Location Prediction/app.py', reloading
+2024-04-22 03:46:46,314:INFO:127.0.0.1 - - [22/Apr/2024 03:46:46] "[35m[1mPOST /findLocation HTTP/1.1[0m" 500 -
+2024-04-22 03:46:46,884:INFO: * Restarting with stat
+2024-04-22 03:46:48,600:WARNING: * Debugger is active!
+2024-04-22 03:46:48,613:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:46:48,984:INFO:127.0.0.1 - - [22/Apr/2024 03:46:48] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-22 03:46:48,985:INFO:127.0.0.1 - - [22/Apr/2024 03:46:48] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-22 03:46:48,998:INFO:127.0.0.1 - - [22/Apr/2024 03:46:48] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-22 03:47:10,354:INFO:127.0.0.1 - - [22/Apr/2024 03:47:10] "[35m[1mPOST /findLocation HTTP/1.1[0m" 500 -
+2024-04-22 03:47:10,396:INFO:127.0.0.1 - - [22/Apr/2024 03:47:10] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-22 03:47:10,408:INFO:127.0.0.1 - - [22/Apr/2024 03:47:10] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-22 03:47:10,434:INFO:127.0.0.1 - - [22/Apr/2024 03:47:10] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-22 03:47:19,388:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.105:8080
+2024-04-22 03:47:19,388:INFO:[33mPress CTRL+C to quit[0m
+2024-04-22 03:47:19,389:INFO: * Restarting with stat
+2024-04-22 03:47:20,942:WARNING: * Debugger is active!
+2024-04-22 03:47:20,954:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:47:35,912:INFO: * Detected change in '/Users/arunmac/Documents/Cellur Mobile Location Prediction/app.py', reloading
+2024-04-22 03:47:41,114:INFO:127.0.0.1 - - [22/Apr/2024 03:47:41] "[35m[1mPOST /findLocation HTTP/1.1[0m" 500 -
+2024-04-22 03:47:41,217:INFO:127.0.0.1 - - [22/Apr/2024 03:47:41] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-22 03:47:41,860:INFO: * Restarting with stat
+2024-04-22 03:47:43,536:WARNING: * Debugger is active!
+2024-04-22 03:47:43,546:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:47:43,895:INFO:127.0.0.1 - - [22/Apr/2024 03:47:43] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-22 03:47:45,763:INFO:127.0.0.1 - - [22/Apr/2024 03:47:45] "GET /findLocation?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-22 03:47:48,638:INFO:127.0.0.1 - - [22/Apr/2024 03:47:48] "POST /findLocation HTTP/1.1" 200 -
+2024-04-22 03:48:04,535:INFO:127.0.0.1 - - [22/Apr/2024 03:48:04] "POST /findLocation HTTP/1.1" 200 -
+2024-04-22 03:48:13,809:INFO:127.0.0.1 - - [22/Apr/2024 03:48:13] "[35m[1mPOST /findLocation HTTP/1.1[0m" 500 -
+2024-04-22 03:48:13,877:INFO:127.0.0.1 - - [22/Apr/2024 03:48:13] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-22 03:48:13,879:INFO:127.0.0.1 - - [22/Apr/2024 03:48:13] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-22 03:48:13,903:INFO:127.0.0.1 - - [22/Apr/2024 03:48:13] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-22 03:48:14,010:INFO:127.0.0.1 - - [22/Apr/2024 03:48:14] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-22 03:49:30,719:INFO: * Detected change in '/Users/arunmac/Documents/Cellur Mobile Location Prediction/app.py', reloading
+2024-04-22 03:49:32,737:INFO:127.0.0.1 - - [22/Apr/2024 03:49:32] "[35m[1mPOST /findLocation HTTP/1.1[0m" 500 -
+2024-04-22 03:49:32,789:INFO:127.0.0.1 - - [22/Apr/2024 03:49:32] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-22 03:49:35,568:INFO: * Restarting with stat
+2024-04-22 03:49:37,355:WARNING: * Debugger is active!
+2024-04-22 03:49:37,366:INFO: * Debugger PIN: 274-604-476
+2024-04-22 03:49:37,669:INFO:127.0.0.1 - - [22/Apr/2024 03:49:37] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-22 03:49:37,685:INFO:127.0.0.1 - - [22/Apr/2024 03:49:37] "[36mGET /findLocation?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-22 03:49:40,609:INFO:127.0.0.1 - - [22/Apr/2024 03:49:40] "POST /findLocation HTTP/1.1" 200 -
+2024-04-22 03:50:03,910:INFO:127.0.0.1 - - [22/Apr/2024 03:50:03] "POST /findLocation HTTP/1.1" 200 -
+2024-04-22 03:50:11,469:INFO:127.0.0.1 - - [22/Apr/2024 03:50:11] "POST /findLocation HTTP/1.1" 200 -

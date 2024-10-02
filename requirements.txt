@@ -1,0 +1,6 @@
+numpy
+folium
+geopy
+flask-cors
+eli5
+-e .
